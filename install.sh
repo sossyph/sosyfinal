@@ -1,0 +1,1 @@
+pip3 install httpx; pip3 install colorama; pip3 install rich; npm i events; npm i fs; npm i randomstring; npm i path; npm i cluster; npm i http2; npm i net; npm i http2; npm i tls; npm i crypto; npm i user-agents; npm i header-generator; npm i gradient-string; npm i fake-useragent; unzip methods.zip; rm -rf methods.zip; python3 start.py
